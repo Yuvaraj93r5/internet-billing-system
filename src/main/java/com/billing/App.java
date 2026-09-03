@@ -39,7 +39,7 @@ public class App {
     }
 
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.out.println("your "));
+        Scanner scanner = new Scanner(System.in);
         String choice;
 
         System.out.println("=== Internet Data Usage Billing System ===");
